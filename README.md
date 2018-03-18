@@ -12,9 +12,13 @@ examples below for the appropriate formatting
 
 
 **Input**
-
+12
+433
+1
+5331
 
 **Output**
+0012 0433 0001 5331
 =======
 
 Problem 1.	Debit Card Number
