@@ -1,0 +1,11 @@
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\bin\Debug\netcoreapp2.0\BasicSytaxExercises2301.deps.json
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\bin\Debug\netcoreapp2.0\BasicSytaxExercises2301.runtimeconfig.json
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\bin\Debug\netcoreapp2.0\BasicSytaxExercises2301.runtimeconfig.dev.json
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\bin\Debug\netcoreapp2.0\BasicSytaxExercises2301.dll
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\bin\Debug\netcoreapp2.0\BasicSytaxExercises2301.pdb
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\obj\Debug\netcoreapp2.0\BasicSytaxExercises2301.csprojResolveAssemblyReference.cache
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\obj\Debug\netcoreapp2.0\BasicSytaxExercises2301.csproj.CoreCompileInputs.cache
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\obj\Debug\netcoreapp2.0\BasicSytaxExercises2301.AssemblyInfoInputs.cache
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\obj\Debug\netcoreapp2.0\BasicSytaxExercises2301.AssemblyInfo.cs
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\obj\Debug\netcoreapp2.0\BasicSytaxExercises2301.dll
+C:\Users\akran\Desktop\CsTraining\Ex01_23.01.18\BasicSytaxExercises2301\BasicSytaxExercises2301\obj\Debug\netcoreapp2.0\BasicSytaxExercises2301.pdb
