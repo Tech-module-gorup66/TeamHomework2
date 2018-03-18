@@ -11,16 +11,16 @@ namespace DebitCardNumber
         static void Main(string[] args)
         {
             //Receive numbers from console
-            var n1Change = double.Parse(Console.ReadLine());
+            var n1Changed = double.Parse(Console.ReadLine());
             var n2 = double.Parse(Console.ReadLine());
             var n3 = double.Parse(Console.ReadLine());
             var n4 = double.Parse(Console.ReadLine());
 
             //modus divide first num
-            var n11 = n1Change % 10;
-            var n12 = (n1Change % 100) / 10;
-            var n13 = (n1Change % 1000) / 100;
-            var n14 = n1Change / 1000;
+            var n11 = n1Changed % 10;
+            var n12 = (n1Changed % 100) / 10;
+            var n13 = (n1Changed % 1000) / 100;
+            var n14 = n1Changed / 1000;
 
             //modus divide second num
             var n21 = n2 % 10;
