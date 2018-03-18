@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Winner\\.nuget\\packages\\": {},
+    "C:\\Users\\akran\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -674,18 +674,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Winner\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\akran\\Desktop\\SoftwareTechnologies\\intro-and- basic-syntax\\Excercise\\TeamHomework2\\Excercise\\TeamHomework2\\intro-and- basic-syntax\\ExerciseSecond\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Winner\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Winner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Winner\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\akran\\Desktop\\SoftwareTechnologies\\intro-and- basic-syntax\\Excercise\\TeamHomework2\\Excercise\\TeamHomework2\\intro-and- basic-syntax\\ExerciseSecond\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\akran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akran\\Desktop\\SoftwareTechnologies\\intro-and- basic-syntax\\Excercise\\TeamHomework2\\Excercise\\TeamHomework2\\intro-and- basic-syntax\\ExerciseSecond\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Winner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\akran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
